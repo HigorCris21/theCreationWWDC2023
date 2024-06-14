@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "The creating of the world is a powerful and important narrative that has been told for centuries by the world's three major religions Judaism, Christianity, and Islam. Although the religious narratives of these three-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
